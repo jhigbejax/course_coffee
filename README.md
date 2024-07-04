@@ -25,10 +25,10 @@ This project aims to analyze the availability, import/export policies, and prici
 - `README.md`: Overview of the project.
 
 ## Setup
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd project_name`
+1. Clone the repository: `git clone https://github.com/jhigbejax/course_coffee.git`
+2. Navigate to the project directory: `cd course_coffee`
 3. Create a virtual environment: `conda env create -f environment.yml` or `pip install -r requirements.txt`
-4. Activate the virtual environment: `conda activate project_name` or `source env/bin/activate`
+4. Activate the virtual environment: `conda activate course_coffee` or `source env/bin/activate`
 
 ## Usage
 1. Add raw data files to `data/raw/`.
